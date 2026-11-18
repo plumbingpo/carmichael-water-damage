@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carmichaelrestoration.com/sitemap.xml
